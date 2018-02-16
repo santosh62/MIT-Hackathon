@@ -4,40 +4,38 @@
 
     <item
         android:id="@+id/menu_home"
-        android:title="Home"
-        android:icon="@mipmap/ic_home_black_24dp">
+        android:icon="@mipmap/ic_home_black_24dp"
+        android:title="Home">
 
     </item>
     <item
         android:id="@+id/menu_clean"
-        android:title="Cleanness"
-        android:icon="@mipmap/ic_delete_sweep_black_24dp">
+        android:icon="@mipmap/ic_delete_sweep_black_24dp"
+        android:title="Cleanness">
 
     </item>
     <item
         android:id="@+id/menu_lostandfound"
-        android:title="Lost and Found"
-        android:icon="@mipmap/ic_error_black_24dp">
-        
-    </item>
+        android:icon="@mipmap/ic_error_black_24dp"
+        android:title="Lost and Found"></item>
     <item
         android:id="@+id/menu_orders"
-        android:title="Canteen Orders"
-        android:icon="@mipmap/ic_restaurant_black_24dp">
+        android:icon="@mipmap/ic_restaurant_black_24dp"
+        android:title="Canteen Orders">
 
     </item>
 
     <item
         android:id="@+id/menu_feedback"
-        android:title="Feedback"
-        android:icon="@mipmap/ic_feedback_black_24dp">
+        android:icon="@mipmap/ic_feedback_black_24dp"
+        android:title="Feedback">
 
     </item>
 
     <item
         android:id="@+id/menu_share"
-        android:title="Share"
-        android:icon="@mipmap/ic_share_black_24dp">
+        android:icon="@mipmap/ic_share_black_24dp"
+        android:title="Share">
 
     </item>
 </menu>
